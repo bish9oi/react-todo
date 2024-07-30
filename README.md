@@ -9,3 +9,8 @@ Currently, two official plugins are available:
 
 
 
+cd my-react-app
+npm install
+npm run dev
+npm install @vitejs/plugin-react
+
